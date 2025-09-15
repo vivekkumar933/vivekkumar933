@@ -15,6 +15,6 @@
 ---
 
 ### 📫 Connect with Me  
-- [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/vivek-kumar-webdev/))  
+- [LinkedIn](https://www.linkedin.com/in/vivek-kumar-webdev/) 
 - [Email](mailto:vivekkumar38115@gmail.com)  
 
